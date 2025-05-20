@@ -1,6 +1,6 @@
 # Ultrasonic Levitator Project
 
-![Acoustic Levitator in Action](videos/media/levitator-demo-video.mov)
+![Acoustic Levitator in Action](https://youtube.com/shorts/gNxE7gydTPg?feature=share)
 
 ## Overview
 
